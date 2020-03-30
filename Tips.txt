@@ -1,0 +1,1 @@
+foto kalian isi dengan foto kalian masing-masing terus tinggal ganti class nya dan jangan lupa edit nama classnya di css

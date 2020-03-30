@@ -1,0 +1,179 @@
+*{
+	padding: 0px;
+	margin: 0px; 
+}
+/* pokoknya file css ini buat ngasih warna background & font sama ngeresize image 
+   GK PERLU DIGANTI	*/
+
+header{
+	background-color: #5d5e5e;
+	font-family: verdana;
+}
+header h1{
+	color: white;
+	padding: 20px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+header p{
+	color: white;
+	padding: 20px;
+	padding-top: 0px;
+	text-align: center;
+}
+.img-tx{
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+.img-smandel{
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+body{
+	color: white;
+	font-size: 75}%;
+
+p{
+	text-align: center;
+}
+a{
+	font-size: 200%;
+	text-align: left;
+}
+h2 {
+  color: rgb(128,191,183); 
+}
+
+h1 {
+  color: rgb(248,203,173); 
+}
+.img-reza{
+	height: 8cm;
+	width: 6cm;
+}
+.img-bryan{
+	height: 8cm;
+	width: 6cm;
+}
+.img-roy{
+	height: 8cm;
+	width: 6cm;
+}
+.img-shadam{
+	height: 8cm;
+	width: 6cm;
+}
+.img-adit{
+	height: 8cm;
+	width: 6cm;
+}
+.img-fatih{
+	height: 8cm;
+	width: 6cm;
+}
+.img-danny{
+	height: 8cm;
+	width: 6cm;
+}
+.img-prima{
+	height: 8cm;
+	width: 6cm;
+}
+.img-ikbar{
+	height: 8cm;
+	width: 6cm;
+}
+.img-mey{
+	height: 8cm;
+	width: 6cm;
+}
+.img-ryan{
+	height: 8cm;
+	width: 6cm;
+}
+.img-rava{
+	height: 8cm;
+	width: 6cm;
+}
+.img-tsabita{
+	height: 8cm;
+	width: 6cm;
+}
+.img-ghaylan{
+	height: 8cm;
+	width: 6cm;
+}
+.img-glen{
+	height: 8cm;
+	width: 6cm;
+}
+.img-didi{
+	height: 8cm;
+	width: 6cm;
+}
+.img-zahrah{
+	height: 8cm;
+	width: 6cm;
+}
+.img-wisang{
+	height: 8cm;
+	width: 6cm;
+}
+.img-alif_rahman{
+	height: 8cm;
+	width: 6cm;
+}
+.img-nabil{
+	height: 8cm;
+	width: 6cm;
+}
+.img-naufal{
+	height: 8cm;
+	width: 6cm;
+}
+.img-semmy{
+	height: 8cm;
+	width: 6cm;
+}
+.img-alya{
+	height: 8cm;
+	width: 6cm;
+}
+.img-maria{
+	height: 8cm;
+	width: 6cm;
+}
+.img-faqih{
+	height: 8cm;
+	width: 6cm;
+}
+.img-arden{
+	height: 8cm;
+	width: 6cm;
+}
+.img-akbar{
+	height: 8cm;
+	width: 6cm;
+}
+.img-alif_raynur{
+	height: 8cm;
+	width: 6cm;
+}
+.img-boska{
+	height: 8cm;
+	width: 6cm;
+}
+.img-ramya{
+	height: 8cm;
+	width: 6cm;
+}
+.img-rayhan{
+	height: 8cm;
+	width: 6cm;
+}
+.img-laoloza{
+	height: 8cm;
+	width: 6cm;
+}
